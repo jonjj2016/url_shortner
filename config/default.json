@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://tutorial:V6R7i8mbUS6epZLe@cluster0.id7at.mongodb.net/my_app?retryWrites=true&w=majority",
+    "baseURL":"http://localhost:3500"
+}
